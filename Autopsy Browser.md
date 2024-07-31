@@ -12,7 +12,7 @@ Generating a report with attached files of interest<br>
 After installing Autopsy, I create a random case where I will be
 examining a hard disk image and then generating a report
 
-![image4](https://github.com/user-attachments/assets/cd7ef6eb-d411-4f67-adac-1395188a3fc6)
+<img width="685" alt="image4" src="https://github.com/user-attachments/assets/8c04808c-e126-429c-a474-47d1706919f8">
 
 
 I upload a sample practice image in E01 format to analyze
@@ -48,7 +48,7 @@ I can also view deleted files which is very useful
 I can quickly generate a report with Autopsy by bookmarking files of
 interest then navigating to Tools -\> Generate Report.
 
-![image5](https://github.com/user-attachments/assets/a5d5c688-901c-440d-b06f-a3c06c6b6c39)
+![image](https://github.com/user-attachments/assets/3e5a7ecb-c06e-4057-ae07-85b73e7905f8)
 
 
 ![image2](https://github.com/user-attachments/assets/e96e132d-f29d-4be8-94e5-a24ab686dc64)
