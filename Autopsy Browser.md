@@ -48,8 +48,8 @@ I can also view deleted files which is very useful
 I can quickly generate a report with Autopsy by bookmarking files of
 interest then navigating to Tools -\> Generate Report.
 
-![](output\Autopsy Browser/media/image5.png){width="10.0in"
-height="6.555555555555555in"}
+![image5](https://github.com/user-attachments/assets/a5d5c688-901c-440d-b06f-a3c06c6b6c39)
 
-![](output\Autopsy Browser/media/image2.png){width="10.0in"
-height="4.5in"}
+
+![image2](https://github.com/user-attachments/assets/e96e132d-f29d-4be8-94e5-a24ab686dc64)
+
