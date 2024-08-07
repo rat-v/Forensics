@@ -1,4 +1,4 @@
-![image12](https://github.com/user-attachments/assets/f55ec650-0270-491c-a2b6-6d322727469d)This is a semi-writeup for TryHackMe\'s Digital Forensics Case B4DM755.
+This is a semi-writeup for TryHackMe\'s Digital Forensics Case B4DM755.
 I don't list every question's answers here, acting as a tutorial, but
 rather show what I worked on. I gain practical experience using FTK
 Imager to create and analyze a disk image for artifacts that would be
